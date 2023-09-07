@@ -1,1 +1,4 @@
 # TaskBoard-Project
+TaskBoard is a web application that automatically divides tasks for a team.
+To be part of a team, the user has to register, with the possibility to choose their level of experience, the working hours they dedicate to the task and the programming language they are familiar with. After registration, the person can login to the account and view the tasks received, and on the left side of the page they can see the list of teammates along with their skills. Also, users have the possibility to start or stop the task, and the user's progress changes its color depending on the percentage.
+The administrator can assign each user tasks according to the skills specified on their profiles, later it can be edited or deleted. The administrator can add new projects for the teams to work on.
